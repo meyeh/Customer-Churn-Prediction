@@ -7,7 +7,7 @@ Additionally, the project compares the performance of two categorical encoding m
 ## Scenario
 The telecommunications sector in India is highly competitive, with customers frequently switching between providers. Churn, defined as the process where customers discontinue the use of a company's services, is a major challenge for telecom companies. Predicting churn accurately enables companies to take proactive measures to retain customers, which is essential for business growth.
 
-This project uses data from four major Indian telecom operators: Airtel, Reliance Jio, Vodafone, and BSNL. The dataset contains both demographic information (e.g., age, location, gender) and usage patterns (e.g., call duration, data usage, service plan). 
+This project uses data from four major Indian telecom operators: Airtel, Reliance Jio, Vodafone, and BSNL. The dataset contains both demographic information and usage patterns. 
 
 ## Objectives
 
